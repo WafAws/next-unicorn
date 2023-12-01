@@ -1,0 +1,41 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-nextunicorn-dev-112758-authRole",
+      "UnauthRoleArn": "arn:aws:iam::030794861340:role/amplify-nextunicorn-dev-112758-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::030794861340:role/amplify-nextunicorn-dev-112758-authRole",
+      "Region": "eu-west-2",
+      "DeploymentBucketName": "amplify-nextunicorn-dev-112758-deployment",
+      "UnauthRoleName": "amplify-nextunicorn-dev-112758-unauthRole",
+      "StackName": "amplify-nextunicorn-dev-112758",
+      "StackId": "arn:aws:cloudformation:eu-west-2:030794861340:stack/amplify-nextunicorn-dev-112758/ae87d8c0-903c-11ee-a405-06fc87eabf44",
+      "AmplifyAppId": "d2f5wcxlcwvrm6"
+    }
+  },
+  "prod": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-nextunicorn-prod-113026-authRole",
+      "UnauthRoleArn": "arn:aws:iam::030794861340:role/amplify-nextunicorn-prod-113026-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::030794861340:role/amplify-nextunicorn-prod-113026-authRole",
+      "Region": "eu-west-2",
+      "DeploymentBucketName": "amplify-nextunicorn-prod-113026-deployment",
+      "UnauthRoleName": "amplify-nextunicorn-prod-113026-unauthRole",
+      "StackName": "amplify-nextunicorn-prod-113026",
+      "StackId": "arn:aws:cloudformation:eu-west-2:030794861340:stack/amplify-nextunicorn-prod-113026/064a6e10-903d-11ee-98a1-0a48ae4edae4",
+      "AmplifyAppId": "d2f5wcxlcwvrm6"
+    }
+  },
+  "test": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-nextunicorn-test-113220-authRole",
+      "UnauthRoleArn": "arn:aws:iam::030794861340:role/amplify-nextunicorn-test-113220-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::030794861340:role/amplify-nextunicorn-test-113220-authRole",
+      "Region": "eu-west-2",
+      "DeploymentBucketName": "amplify-nextunicorn-test-113220-deployment",
+      "UnauthRoleName": "amplify-nextunicorn-test-113220-unauthRole",
+      "StackName": "amplify-nextunicorn-test-113220",
+      "StackId": "arn:aws:cloudformation:eu-west-2:030794861340:stack/amplify-nextunicorn-test-113220/4a7fd340-903d-11ee-9915-021d0e417f54",
+      "AmplifyAppId": "d2f5wcxlcwvrm6"
+    }
+  }
+}
